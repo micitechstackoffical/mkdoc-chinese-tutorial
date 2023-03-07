@@ -1,0 +1,10 @@
+[book]
+authors = ["zhengweiliang"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MkDoc中文教程"
+
+[output.html]
+additional-css = ["style.css"]
+additional-js = ["sidebar.js"]
