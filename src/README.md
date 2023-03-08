@@ -36,4 +36,9 @@ MkDocs构建的完全静态的HTML站点，可以将其托管在GitHub页面、A
 [anywhere]: ./user-guide/deploy-docs.md
 
 
+## 翻译团队
+
+- [幂次小栈](https://doc.mici.tech)
+
+
 

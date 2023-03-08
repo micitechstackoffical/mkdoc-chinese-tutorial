@@ -5,6 +5,14 @@ multilingual = false
 src = "src"
 title = "MkDoc中文教程"
 
+[rust]
+edition = "2018"
+
 [output.html]
+mathjax-support = true
+site-url = "/mkdoc-chinese-tutorial/"
+git-repository-url = "https://github.com/micitechstackoffical/mkdoc-chinese-tutorial/tree/main"
+edit-url-template = "https://github.com/micitechstackoffical/mkdoc-chinese-tutorial/edit/main/{path}"
+
 additional-css = ["style.css"]
 additional-js = ["sidebar.js"]
